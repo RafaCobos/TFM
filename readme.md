@@ -18,7 +18,7 @@ Se utilizan dos modelos principales:
 Además, se utiliza los vocabularios controlados de **TESEO** y **UNESCO** en formato RDF para validar y contextualizar las palabras clave extraídas. Finalmente, se incluye una **aplicación web interactiva** desarrollada con Streamlit para generar los descriptores para TESEO y las palabras clave para UNESCO.
 
 ---
-
+```
 ## Estructura 
 .
 ├── Tesis/                     # Carpeta con todos los PDFs de las tesis
@@ -72,7 +72,7 @@ Además, se utiliza los vocabularios controlados de **TESEO** y **UNESCO** en fo
 ├── dataset_migracion_teseo.json
 ├── dataset_migracion_unesco.json
 └── resultados_completo.json
-
+```
 ## Configuración de entorno
 Se recomienda usar **Python 3.12.11**
 
