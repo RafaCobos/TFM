@@ -18,8 +18,9 @@ Se utilizan dos modelos principales:
 Además, se utiliza los vocabularios controlados de **TESEO** y **UNESCO** en formato RDF para validar y contextualizar las palabras clave extraídas. Finalmente, se incluye una **aplicación web interactiva** desarrollada con Streamlit para generar los descriptores para TESEO y las palabras clave para UNESCO.
 
 ---
-```
+
 ## Estructura 
+```
 .
 ├── Tesis/                     # Carpeta con todos los PDFs de las tesis
 ├── web/                       # Carpeta de la aplicación Streamlit
