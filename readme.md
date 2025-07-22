@@ -1,8 +1,8 @@
 # Generador de palabras clave automáticas para Tesis Doctorales. Propuesta de uso para TESEO
 
-**Autor:** Cobos Pineda, Rafael 
-**Máster:** Máster Universitario en Análisis y Visualización de Datos Masivos/ Visual Analytics and Big Data 
-**Universidad:** UNIR 
+**Autor:** Cobos Pineda, Rafael··
+**Máster:** Máster Universitario en Análisis y Visualización de Datos Masivos/ Visual Analytics and Big Data··
+**Universidad:** UNIR··
 **Fecha:** Julio 2025
 
 ---
@@ -81,7 +81,7 @@ Se recomienda usar **Python 3.12.11**
 pip install -r requirements.txt
 
 ## Usar la aplicación web
-Para usar la aplicación web de este proyecto, debes ejecutar el siguiente comando en tu terminal, asegurándote de estar en la carpeta web del proyecto:
+Para usar la aplicación web de este proyecto, debes ejecutar el siguiente comando en tu terminal, asegurándote de estar en la carpeta web del proyecto:··
 streamlit run web.py
 
 ## Para la descarga de los modelos
