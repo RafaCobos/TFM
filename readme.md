@@ -1,6 +1,9 @@
 # Generador de palabras clave automáticas para Tesis Doctorales. Propuesta de uso para TESEO
 
-**Autor:** Cobos Pineda, Rafael **Máster:** Máster Universitario en Análisis y Visualización de Datos Masivos/ Visual Analytics and Big Data **Universidad:** UNIR **Fecha:** Julio 2025
+**Autor:** Cobos Pineda, Rafael 
+**Máster:** Máster Universitario en Análisis y Visualización de Datos Masivos/ Visual Analytics and Big Data 
+**Universidad:** UNIR 
+**Fecha:** Julio 2025
 
 ---
 
